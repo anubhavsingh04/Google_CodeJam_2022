@@ -1,3 +1,4 @@
-# [Punched Cards (11pts)](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b)
-### Google codejam 2022 problem 1
-----
+# [3D Printing (13pts)](https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b)
+## Gogle codejam 2022 
+---
+###  PROBLEM : 1
